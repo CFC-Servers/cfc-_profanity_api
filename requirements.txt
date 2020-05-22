@@ -1,0 +1,6 @@
+profanity-check
+bjoern
+aiohttp
+cchardet
+brotlipy
+python-dotenv
